@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "EC21C28835FBC68604A019434413A967AE63EF8B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "EC21C28835FBC68604A019434413A967AE63EF8B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "EBACC455-6816-423F-8CE1-63A40F118CC6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "EC21C28835FBC68604A019434413A967AE63EF8B" : "ZombieConga\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ZombieConga",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ZombieConga.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/robfasciano\/ZombieConga.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "EC21C28835FBC68604A019434413A967AE63EF8B"
+    }
+  ]
+}
