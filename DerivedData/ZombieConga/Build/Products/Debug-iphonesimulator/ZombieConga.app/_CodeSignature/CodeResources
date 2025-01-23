@@ -50,11 +50,31 @@
 		</data>
 		<key>ZombieConga.debug.dylib</key>
 		<data>
-		q3dcxwK073sOuhuyZt51h1+5ksw=
+		dc5ytcm3V7nclXetNlz0Xw7gQto=
 		</data>
 		<key>__preview.dylib</key>
 		<data>
 		tQROJzPkYYw0RWRqzHsmepICIck=
+		</data>
+		<key>backgroundMusic.mp3</key>
+		<data>
+		svKWSYEjjCzMq833ltgHbXXzY6E=
+		</data>
+		<key>hitCat.wav</key>
+		<data>
+		a/dJ5PhcCCPf4qNzyGgXF9bUDCo=
+		</data>
+		<key>hitCatLady.wav</key>
+		<data>
+		U4SiYOUbRsI9Gcxd2p16c7HqPkQ=
+		</data>
+		<key>lose.wav</key>
+		<data>
+		jjwlJOkAIBR/xbPt4Cvw3KNmeP0=
+		</data>
+		<key>win.wav</key>
+		<data>
+		eypXE4umVpXoHURkHmdxdz8Fs1Y=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -126,7 +146,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LA8M6Mz2xGBaeAOvtLTQru1obNrne5Cgrm9i43ZCqIY=
+			tTpCOFumBIAY96TUGqgzJpKiHxTAEAiLwwEBZeXwskM=
 			</data>
 		</dict>
 		<key>__preview.dylib</key>
@@ -134,6 +154,41 @@
 			<key>hash2</key>
 			<data>
 			JVSjRhbdl1VLBYwUNOOqIKNE2HnSLxsx5+YM5w9dBaM=
+			</data>
+		</dict>
+		<key>backgroundMusic.mp3</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Tq8FAdLhOS51nawBVlHnKrMOTtRnWcEPaOkZf9B8a+k=
+			</data>
+		</dict>
+		<key>hitCat.wav</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			hq2R7SKdwZ8BXnpf+KNVZsGKzaZqCeJ1lGF235Gdm9o=
+			</data>
+		</dict>
+		<key>hitCatLady.wav</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			g787MhR6TtRLvT3ZrCEpjgYbxJ3GJMOHwLI6sO2O35s=
+			</data>
+		</dict>
+		<key>lose.wav</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Ebqsi5XPcDDfjLJZDYThSU+B6lsDujG9Eev0Yz60po0=
+			</data>
+		</dict>
+		<key>win.wav</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			utnKgmK9eHE/dwGTHMjbtvbLi5RXQ5PUSLpi3mpSWmE=
 			</data>
 		</dict>
 	</dict>
