@@ -1,0 +1,59 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "e681ce005f3092a18bf8bec5f473c281a024876cab829abb70f416cba45d6f27"
+    }
+  ],
+  "containerPath" : "/Users/robertfasciano/Documents/ZombieConga/ZombieConga.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Index.noindex/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Index.noindex/Build/Products",
+      "derivedDataPath" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Index.noindex/PrecompiledHeaders",
+      "indexRegularBuildIntermediatesPath" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex",
+      "indexRegularBuildProductsPath" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Products",
+      "pchPath" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Index.noindex/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

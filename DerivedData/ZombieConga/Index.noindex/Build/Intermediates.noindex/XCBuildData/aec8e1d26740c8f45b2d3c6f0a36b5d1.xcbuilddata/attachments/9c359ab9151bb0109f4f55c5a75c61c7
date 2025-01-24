@@ -1,0 +1,30 @@
+{
+  "" : {
+    "dependencies" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Index.noindex/Build/Intermediates.noindex/ZombieConga.build/Debug-iphoneos/ZombieConga.build/Objects-normal/arm64/ZombieConga-master.d",
+    "diagnostics" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Index.noindex/Build/Intermediates.noindex/ZombieConga.build/Debug-iphoneos/ZombieConga.build/Objects-normal/arm64/ZombieConga-master.dia",
+    "emit-module-dependencies" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Index.noindex/Build/Intermediates.noindex/ZombieConga.build/Debug-iphoneos/ZombieConga.build/Objects-normal/arm64/ZombieConga-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Index.noindex/Build/Intermediates.noindex/ZombieConga.build/Debug-iphoneos/ZombieConga.build/Objects-normal/arm64/ZombieConga-master-emit-module.dia",
+    "swift-dependencies" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Index.noindex/Build/Intermediates.noindex/ZombieConga.build/Debug-iphoneos/ZombieConga.build/Objects-normal/arm64/ZombieConga-master.swiftdeps"
+  },
+  "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Index.noindex/Build/Intermediates.noindex/ZombieConga.build/Debug-iphoneos/ZombieConga.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  },
+  "/Users/robertfasciano/Documents/ZombieConga/ZombieConga/AppDelegate.swift" : {
+
+  },
+  "/Users/robertfasciano/Documents/ZombieConga/ZombieConga/GameOverScene.swift" : {
+
+  },
+  "/Users/robertfasciano/Documents/ZombieConga/ZombieConga/GameScene.swift" : {
+
+  },
+  "/Users/robertfasciano/Documents/ZombieConga/ZombieConga/GameViewController.swift" : {
+
+  },
+  "/Users/robertfasciano/Documents/ZombieConga/ZombieConga/MainMenuScene.swift" : {
+
+  },
+  "/Users/robertfasciano/Documents/ZombieConga/ZombieConga/MyUtils.swift" : {
+
+  }
+}

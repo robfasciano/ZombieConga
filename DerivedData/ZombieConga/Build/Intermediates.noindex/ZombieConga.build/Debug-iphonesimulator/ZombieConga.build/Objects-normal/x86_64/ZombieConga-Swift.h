@@ -319,6 +319,16 @@ SWIFT_CLASS("_TtC11ZombieConga11AppDelegate")
 
 @class NSCoder;
 @class SKView;
+
+SWIFT_CLASS("_TtC11ZombieConga13GameOverScene")
+@interface GameOverScene : SKScene
+- (nonnull instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
+- (void)didMoveToView:(SKView * _Nonnull)view;
+- (nonnull instancetype)initWithSize:(CGSize)size SWIFT_UNAVAILABLE;
+- (nonnull instancetype)init SWIFT_UNAVAILABLE;
++ (nonnull instancetype)new SWIFT_UNAVAILABLE_MSG("-init is unavailable");
+@end
+
 @class UITouch;
 @class UIEvent;
 
@@ -344,6 +354,16 @@ SWIFT_CLASS("_TtC11ZombieConga18GameViewController")
 @property (nonatomic, readonly) BOOL prefersStatusBarHidden;
 - (nonnull instancetype)initWithNibName:(NSString * _Nullable)nibNameOrNil bundle:(NSBundle * _Nullable)nibBundleOrNil OBJC_DESIGNATED_INITIALIZER;
 - (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)coder OBJC_DESIGNATED_INITIALIZER;
+@end
+
+
+SWIFT_CLASS("_TtC11ZombieConga13MainMenuScene")
+@interface MainMenuScene : SKScene
+- (void)didMoveToView:(SKView * _Nonnull)view;
+- (void)touchesBegan:(NSSet<UITouch *> * _Nonnull)touches withEvent:(UIEvent * _Nullable)event;
+- (nonnull instancetype)initWithSize:(CGSize)size OBJC_DESIGNATED_INITIALIZER;
+- (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
+- (nullable instancetype)initWithCoder:(NSCoder * _Nonnull)aDecoder OBJC_DESIGNATED_INITIALIZER;
 @end
 
 

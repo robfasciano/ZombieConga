@@ -3,6 +3,7 @@
 <plist version="1.0">
 <array>
 	<string>Foundation</string>
+	<string>AVFoundation</string>
 	<string>SpriteKit</string>
 	<string>UIKit</string>
 	<string>CoreGraphics</string>

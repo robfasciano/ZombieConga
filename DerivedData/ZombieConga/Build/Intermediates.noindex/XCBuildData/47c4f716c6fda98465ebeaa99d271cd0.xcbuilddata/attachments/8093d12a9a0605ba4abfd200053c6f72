@@ -1,0 +1,68 @@
+{
+  "" : {
+    "diagnostics" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/ZombieConga-master.dia",
+    "emit-module-dependencies" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/ZombieConga-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/ZombieConga-master-emit-module.dia",
+    "swift-dependencies" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/ZombieConga-master.swiftdeps"
+  },
+  "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/robertfasciano/Documents/ZombieConga/ZombieConga/AppDelegate.swift" : {
+    "const-values" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/AppDelegate.swiftconstvalues",
+    "dependencies" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/AppDelegate.d",
+    "diagnostics" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/AppDelegate.dia",
+    "index-unit-output-path" : "/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/AppDelegate.o",
+    "llvm-bc" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/AppDelegate.bc",
+    "object" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/AppDelegate.o",
+    "swift-dependencies" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/AppDelegate.swiftdeps",
+    "swiftmodule" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/AppDelegate~partial.swiftmodule"
+  },
+  "/Users/robertfasciano/Documents/ZombieConga/ZombieConga/GameOverScene.swift" : {
+    "const-values" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameOverScene.swiftconstvalues",
+    "dependencies" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameOverScene.d",
+    "diagnostics" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameOverScene.dia",
+    "index-unit-output-path" : "/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameOverScene.o",
+    "llvm-bc" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameOverScene.bc",
+    "object" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameOverScene.o",
+    "swift-dependencies" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameOverScene.swiftdeps",
+    "swiftmodule" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameOverScene~partial.swiftmodule"
+  },
+  "/Users/robertfasciano/Documents/ZombieConga/ZombieConga/GameScene.swift" : {
+    "const-values" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameScene.swiftconstvalues",
+    "dependencies" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameScene.d",
+    "diagnostics" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameScene.dia",
+    "index-unit-output-path" : "/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameScene.o",
+    "llvm-bc" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameScene.bc",
+    "object" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameScene.o",
+    "swift-dependencies" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameScene.swiftdeps",
+    "swiftmodule" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameScene~partial.swiftmodule"
+  },
+  "/Users/robertfasciano/Documents/ZombieConga/ZombieConga/GameViewController.swift" : {
+    "const-values" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameViewController.swiftconstvalues",
+    "dependencies" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameViewController.d",
+    "diagnostics" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameViewController.dia",
+    "index-unit-output-path" : "/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameViewController.o",
+    "llvm-bc" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameViewController.bc",
+    "object" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameViewController.o",
+    "swift-dependencies" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameViewController.swiftdeps",
+    "swiftmodule" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/GameViewController~partial.swiftmodule"
+  },
+  "/Users/robertfasciano/Documents/ZombieConga/ZombieConga/MyUtils.swift" : {
+    "const-values" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/MyUtils.swiftconstvalues",
+    "dependencies" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/MyUtils.d",
+    "diagnostics" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/MyUtils.dia",
+    "index-unit-output-path" : "/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/MyUtils.o",
+    "llvm-bc" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/MyUtils.bc",
+    "object" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/MyUtils.o",
+    "swift-dependencies" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/MyUtils.swiftdeps",
+    "swiftmodule" : "/Users/robertfasciano/Documents/ZombieConga/DerivedData/ZombieConga/Build/Intermediates.noindex/ZombieConga.build/Debug-iphonesimulator/ZombieConga.build/Objects-normal/x86_64/MyUtils~partial.swiftmodule"
+  }
+}
