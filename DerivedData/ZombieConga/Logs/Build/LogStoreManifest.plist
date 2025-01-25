@@ -300,6 +300,48 @@
 			<key>uniqueIdentifier</key>
 			<string>2EAFD412-2D01-449D-85A8-E6D1A3DEC54D</string>
 		</dict>
+		<key>2FDB78A0-7D82-4229-AADD-6EF8BB4FA392</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2FDB78A0-7D82-4229-AADD-6EF8BB4FA392.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ZombieConga project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ZombieConga</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ZombieConga</string>
+			<key>timeStartedRecording</key>
+			<real>759507784.28148794</real>
+			<key>timeStoppedRecording</key>
+			<real>759507786.12485397</real>
+			<key>title</key>
+			<string>Build ZombieConga</string>
+			<key>uniqueIdentifier</key>
+			<string>2FDB78A0-7D82-4229-AADD-6EF8BB4FA392</string>
+		</dict>
 		<key>35CFBBFF-FC00-4C10-8D24-4C921063AEDB</key>
 		<dict>
 			<key>className</key>
@@ -383,6 +425,48 @@
 			<string>Build ZombieConga</string>
 			<key>uniqueIdentifier</key>
 			<string>413D411B-2779-4632-922A-3A92A5C926CD</string>
+		</dict>
+		<key>44F2F687-F5B1-4C0E-9ACD-9B2AF07C7393</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>44F2F687-F5B1-4C0E-9ACD-9B2AF07C7393.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ZombieConga project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ZombieConga</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ZombieConga</string>
+			<key>timeStartedRecording</key>
+			<real>759501822.74092603</real>
+			<key>timeStoppedRecording</key>
+			<real>759501824.85738003</real>
+			<key>title</key>
+			<string>Build ZombieConga</string>
+			<key>uniqueIdentifier</key>
+			<string>44F2F687-F5B1-4C0E-9ACD-9B2AF07C7393</string>
 		</dict>
 		<key>48E25118-DD2E-452E-B095-77A652475B51</key>
 		<dict>
@@ -510,6 +594,90 @@
 			<key>uniqueIdentifier</key>
 			<string>4C406F61-2768-46CA-A4A8-94742ECEC55F</string>
 		</dict>
+		<key>4C7A5C09-E0CD-4E36-B7DF-A4434F8A7396</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4C7A5C09-E0CD-4E36-B7DF-A4434F8A7396.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ZombieConga project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ZombieConga</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ZombieConga</string>
+			<key>timeStartedRecording</key>
+			<real>759503172.24597597</real>
+			<key>timeStoppedRecording</key>
+			<real>759503174.39870703</real>
+			<key>title</key>
+			<string>Build ZombieConga</string>
+			<key>uniqueIdentifier</key>
+			<string>4C7A5C09-E0CD-4E36-B7DF-A4434F8A7396</string>
+		</dict>
+		<key>4F7A748B-59C3-4325-A874-FC1C4AA50699</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4F7A748B-59C3-4325-A874-FC1C4AA50699.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ZombieConga project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ZombieConga</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ZombieConga</string>
+			<key>timeStartedRecording</key>
+			<real>759501449.88866305</real>
+			<key>timeStoppedRecording</key>
+			<real>759501452.64111495</real>
+			<key>title</key>
+			<string>Build ZombieConga</string>
+			<key>uniqueIdentifier</key>
+			<string>4F7A748B-59C3-4325-A874-FC1C4AA50699</string>
+		</dict>
 		<key>5BC0E76C-ED24-4AA7-B160-D03D547EE5FC</key>
 		<dict>
 			<key>className</key>
@@ -551,6 +719,48 @@
 			<string>Build ZombieConga</string>
 			<key>uniqueIdentifier</key>
 			<string>5BC0E76C-ED24-4AA7-B160-D03D547EE5FC</string>
+		</dict>
+		<key>5C2F36A2-69B8-484B-A118-7624060388DF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5C2F36A2-69B8-484B-A118-7624060388DF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ZombieConga project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ZombieConga</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ZombieConga</string>
+			<key>timeStartedRecording</key>
+			<real>759507433.876876</real>
+			<key>timeStoppedRecording</key>
+			<real>759507435.92700696</real>
+			<key>title</key>
+			<string>Build ZombieConga</string>
+			<key>uniqueIdentifier</key>
+			<string>5C2F36A2-69B8-484B-A118-7624060388DF</string>
 		</dict>
 		<key>6CE9FCA9-3AFE-4781-8E40-9028FE791FC6</key>
 		<dict>
@@ -594,6 +804,48 @@
 			<key>uniqueIdentifier</key>
 			<string>6CE9FCA9-3AFE-4781-8E40-9028FE791FC6</string>
 		</dict>
+		<key>6DFC819D-12CC-4938-B724-98CF662FC1B9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>6DFC819D-12CC-4938-B724-98CF662FC1B9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ZombieConga project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ZombieConga</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ZombieConga</string>
+			<key>timeStartedRecording</key>
+			<real>759502689.60811102</real>
+			<key>timeStoppedRecording</key>
+			<real>759502691.76055205</real>
+			<key>title</key>
+			<string>Build ZombieConga</string>
+			<key>uniqueIdentifier</key>
+			<string>6DFC819D-12CC-4938-B724-98CF662FC1B9</string>
+		</dict>
 		<key>72BBB245-10DF-445A-B7F0-7C105D2792BE</key>
 		<dict>
 			<key>className</key>
@@ -635,6 +887,48 @@
 			<string>Build ZombieConga</string>
 			<key>uniqueIdentifier</key>
 			<string>72BBB245-10DF-445A-B7F0-7C105D2792BE</string>
+		</dict>
+		<key>8237530C-2A9A-4F7D-9F85-EF2A36565A95</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8237530C-2A9A-4F7D-9F85-EF2A36565A95.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ZombieConga project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ZombieConga</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ZombieConga</string>
+			<key>timeStartedRecording</key>
+			<real>759503212.16070902</real>
+			<key>timeStoppedRecording</key>
+			<real>759503213.81680202</real>
+			<key>title</key>
+			<string>Build ZombieConga</string>
+			<key>uniqueIdentifier</key>
+			<string>8237530C-2A9A-4F7D-9F85-EF2A36565A95</string>
 		</dict>
 		<key>83117C2F-0D6C-433D-BA1C-3D44558B1AD2</key>
 		<dict>
@@ -930,6 +1224,132 @@
 			<key>uniqueIdentifier</key>
 			<string>96E55EFD-1664-4A23-B3C3-D52D866BCA91</string>
 		</dict>
+		<key>96E9A483-1543-4484-8CD0-B4355DB3A54E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>96E9A483-1543-4484-8CD0-B4355DB3A54E.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ZombieConga project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ZombieConga</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ZombieConga</string>
+			<key>timeStartedRecording</key>
+			<real>759507209.23666298</real>
+			<key>timeStoppedRecording</key>
+			<real>759507211.333722</real>
+			<key>title</key>
+			<string>Build ZombieConga</string>
+			<key>uniqueIdentifier</key>
+			<string>96E9A483-1543-4484-8CD0-B4355DB3A54E</string>
+		</dict>
+		<key>9E57FC4F-CBFB-4486-9E2E-A993C27F6AA2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9E57FC4F-CBFB-4486-9E2E-A993C27F6AA2.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ZombieConga project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ZombieConga</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ZombieConga</string>
+			<key>timeStartedRecording</key>
+			<real>759507716.99934101</real>
+			<key>timeStoppedRecording</key>
+			<real>759507718.74826002</real>
+			<key>title</key>
+			<string>Build ZombieConga</string>
+			<key>uniqueIdentifier</key>
+			<string>9E57FC4F-CBFB-4486-9E2E-A993C27F6AA2</string>
+		</dict>
+		<key>9F05C101-4004-4953-B347-428DEB9A2A61</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>9F05C101-4004-4953-B347-428DEB9A2A61.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ZombieConga project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ZombieConga</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ZombieConga</string>
+			<key>timeStartedRecording</key>
+			<real>759506583.81388795</real>
+			<key>timeStoppedRecording</key>
+			<real>759506586.24430001</real>
+			<key>title</key>
+			<string>Build ZombieConga</string>
+			<key>uniqueIdentifier</key>
+			<string>9F05C101-4004-4953-B347-428DEB9A2A61</string>
+		</dict>
 		<key>AB6A584A-832F-4F5E-A6BE-EC14112715A5</key>
 		<dict>
 			<key>className</key>
@@ -1098,6 +1518,48 @@
 			<key>uniqueIdentifier</key>
 			<string>CF712190-CA89-4472-A8F3-674AE23DBE06</string>
 		</dict>
+		<key>D57660B7-7485-47DE-8B9E-3E66080EF780</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D57660B7-7485-47DE-8B9E-3E66080EF780.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ZombieConga project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ZombieConga</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ZombieConga</string>
+			<key>timeStartedRecording</key>
+			<real>759502621.134395</real>
+			<key>timeStoppedRecording</key>
+			<real>759502623.56277895</real>
+			<key>title</key>
+			<string>Build ZombieConga</string>
+			<key>uniqueIdentifier</key>
+			<string>D57660B7-7485-47DE-8B9E-3E66080EF780</string>
+		</dict>
 		<key>DB56F3E4-0564-45B4-89F1-B54A79A0F9C6</key>
 		<dict>
 			<key>className</key>
@@ -1223,6 +1685,48 @@
 			<string>Build ZombieConga</string>
 			<key>uniqueIdentifier</key>
 			<string>E8E282D1-AF09-4A69-8F8D-1F0AF4B3074A</string>
+		</dict>
+		<key>F706BF15-81F7-415F-B289-E080C06E9923</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F706BF15-81F7-415F-B289-E080C06E9923.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ZombieConga project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ZombieConga</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build ZombieConga</string>
+			<key>timeStartedRecording</key>
+			<real>759507633.34895098</real>
+			<key>timeStoppedRecording</key>
+			<real>759507635.18208098</real>
+			<key>title</key>
+			<string>Build ZombieConga</string>
+			<key>uniqueIdentifier</key>
+			<string>F706BF15-81F7-415F-B289-E080C06E9923</string>
 		</dict>
 		<key>F9BF02F3-0948-4D4F-A646-2A19D199D004</key>
 		<dict>
